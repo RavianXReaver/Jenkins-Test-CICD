@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ravian/VS_Code/Test-App/Test-App.csproj": {}
+    "C:\\Users\\raveen_abeywickrama\\Documents\\VS_Code\\Test-Project\\test\\Test-App.csproj": {}
   },
   "projects": {
-    "/home/ravian/VS_Code/Test-App/Test-App.csproj": {
+    "C:\\Users\\raveen_abeywickrama\\Documents\\VS_Code\\Test-Project\\test\\Test-App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ravian/VS_Code/Test-App/Test-App.csproj",
+        "projectUniqueName": "C:\\Users\\raveen_abeywickrama\\Documents\\VS_Code\\Test-Project\\test\\Test-App.csproj",
         "projectName": "Test-App",
-        "projectPath": "/home/ravian/VS_Code/Test-App/Test-App.csproj",
-        "packagesPath": "/home/ravian/.nuget/packages/",
-        "outputPath": "/home/ravian/VS_Code/Test-App/obj/",
+        "projectPath": "C:\\Users\\raveen_abeywickrama\\Documents\\VS_Code\\Test-Project\\test\\Test-App.csproj",
+        "packagesPath": "C:\\Users\\raveen_abeywickrama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raveen_abeywickrama\\Documents\\VS_Code\\Test-Project\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ravian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\raveen_abeywickrama\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -45,12 +45,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.8, 3.1.8]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -59,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
